@@ -1,2 +1,2 @@
 #!/bin/bash
-python ping.py
+python3 ping.py
